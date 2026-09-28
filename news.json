@@ -1,12 +1,19 @@
 {
-  "latestId": 1,
+  "latestId": 2,
   "news": [
     {
       "id": 1,
-      "title": "Bienvenidos a VS Loken",
+      "title": "Welcome to FunkNetGroove",
       "date": "2026-09-27",
-      "content": "Esta es la primera noticia del mod.",
+      "content": "This is our first test for this page.",
       "image": "images/bienvenida.png"
+    },
+    {
+      "id": 2,
+      "title": "New menu",
+      "date": "2026-09-28",
+      "content": "YIPPEEEEE MENUUUU",
+      "image": "images/menu.png"
     }
   ]
 }
