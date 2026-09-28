@@ -1,0 +1,11 @@
+{
+  "latestId": 1,
+  "news": [
+    {
+      "id": 1,
+      "title": "Bienvenidos a VS Loken",
+      "date": "2026-09-27",
+      "content": "Esta es la primera noticia del mod."
+    }
+  ]
+}
